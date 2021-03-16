@@ -1,0 +1,13 @@
+
+.horas {
+    font-size: 50px;
+    border: 1px solid;
+    text-align: center;
+    width: fit-content;
+    padding: 20px;
+    position: absolute;
+    width: 300px;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -172px;
+}
