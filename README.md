@@ -1,5 +1,5 @@
 # T29
-Tarea 29 - Ejercicio 6 - Boostrap
+Tarea 29 - Boostrap
 
 #### 1. Description
 ```
